@@ -10,25 +10,6 @@ let [email,setemail] = useState("");
 let [message,setmessage] = useState("");
 Aos.init()
 
- 
-let handlesubmit =async (e)=>{
-  e.preventDefault();
-  const response = await fetch('http://localhost:5000/send-email',{
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify({ name, email, message }),
-  });
-
-  if (response.ok) {
-    alert('Email sent successfully!');
-  } else {
-    alert('Failed to send email.');
-  }
-};
-
-  
 
   return <>
   <section className='container pt-10 pb-10 mt-10 grid grid-cols-12 gap-5 ' >
