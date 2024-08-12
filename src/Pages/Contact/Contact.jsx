@@ -35,7 +35,7 @@ Aos.init()
 
     <div className=' col-span-12 md:col-span-5 lg:col-span-5 xl:col-span-5 shadow-2xl rounded p-5 dark:bg-darkprimary' data-aos="fade-right">
         <h3 className='font-bold text-3xl mb-5 text-center dark:text-darksecondry'>Get In Touch</h3>
-        <form className='flex flex-col jestify-center align-center   '>
+        <form className='flex flex-col jestify-center align-center'>
             <input type="text"  placeholder='Your Name' value={name} className='form-control' onChange={(e)=>setname(e.target.value)} required/>
             <input type="email"  placeholder='Your Email' value={email} className='form-control' onChange={(e)=>setemail(e.target.value)} required/>
             <textarea placeholder='Your Message' rows="10" value={message} className='form-control' onChange={(e)=>setmessage(e.target.value)} required></textarea>

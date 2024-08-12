@@ -28,27 +28,27 @@ Thank you for taking the time to learn a bit about me. I look forward to connect
   <div className='my-20'>
     <h3 className='text-3xl text-bold text-center mb-10 dark:text-darkprimary'>Skills</h3>
     <div className='grid grid-cols-12 gap-5 '>
-      <div className='col-span-6 md:col-span-3   flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry '>
+      <div className='col-span-6 md:col-span-3   flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry dark:shadow-darksecondry'>
       <div className='rounded-full overflow-hidden'>
         <img src='src\images\html.jpg' className='w-20 h-[70px] object-cover' />
       </div>
        <p className=' mt-5'>HTML & HTML5</p>
       </div>
-      <div className='col-span-6 md:col-span-3  flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry'>
+      <div className='col-span-6 md:col-span-3  flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry dark:shadow-darksecondry'>
       <div className='rounded-full overflow-hidden'>
         <img src='src\images\css.webp' className='w-20 h-[70px] object-cover' />
       </div>
        <p className=' mt-5'>CSS</p>
       </div>
 
-      <div className='col-span-6 md:col-span-3  flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry'>
+      <div className='col-span-6 md:col-span-3  flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry dark:shadow-darksecondry'>
       <div className='rounded-full overflow-hidden'>
         <img src='src\images\javaseript.webp' className='w-20 h-[70px] object-cover' />
       </div>
        <p className=' mt-5'>JavaScript</p>
       </div>
 
-      <div className='col-span-6 md:col-span-3  flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry'>
+      <div className='col-span-6 md:col-span-3  flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry dark:shadow-darksecondry'>
       <div className='rounded-full overflow-hidden'>
         <img src='src\images\bootstrap.webp' className='w-20 h-[70px] object-cover' />
       </div>
@@ -56,7 +56,7 @@ Thank you for taking the time to learn a bit about me. I look forward to connect
       </div>
 
 
-      <div className='col-span-6 md:col-span-3  flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry'>
+      <div className='col-span-6 md:col-span-3  flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry dark:shadow-darksecondry'>
       <div className='rounded-full overflow-hidden'>
         <img src='src\images\tailwind.webp' className='w-20 h-[70px] object-cover' />
       </div>
@@ -64,7 +64,7 @@ Thank you for taking the time to learn a bit about me. I look forward to connect
       </div>
 
  
-      <div className='col-span-6 md:col-span-3 flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry'>
+      <div className='col-span-6 md:col-span-3 flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry dark:shadow-darksecondry'>
       <div className='rounded-full overflow-hidden'>
         <img src='src\images\sass.png' className='w-20 h-[70px] object-cover' />
       </div>
@@ -72,7 +72,7 @@ Thank you for taking the time to learn a bit about me. I look forward to connect
       </div>
 
 
-      <div className='col-span-6 md:col-span-3  flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry'>
+      <div className='col-span-6 md:col-span-3  flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry dark:shadow-darksecondry'>
       <div className='rounded-full overflow-hidden'>
         <img src='src\images\jquary.png' className='w-20 h-[70px] object-cover' />
       </div>
@@ -80,7 +80,7 @@ Thank you for taking the time to learn a bit about me. I look forward to connect
       </div>
 
 
-      <div className='col-span-6 md:col-span-3 flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry'>
+      <div className='col-span-6 md:col-span-3 flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry dark:shadow-darksecondry'>
       <div className='rounded-full overflow-hidden'>
         <img src='src\images\react js.png' className='w-20 h-[70px] object-cover' />
       </div>
@@ -88,7 +88,7 @@ Thank you for taking the time to learn a bit about me. I look forward to connect
       </div>
 
 
-      <div className='col-span-6 md:col-span-3  flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry'>
+      <div className='col-span-6 md:col-span-3  flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry dark:shadow-darksecondry'>
       <div className='rounded-full overflow-hidden'>
         <img src='src\images\github.png' className='w-20 h-[70px] object-cover' />
       </div>

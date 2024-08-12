@@ -17,7 +17,7 @@ export default function Projects() {
    </div>
 
     <div className='grid  grid-cols-12 gap-5'  data-aos="fade-down-right">
-    <div  className='col-span-12 md:col-span-6 lg:col-span-4 xl:col-span-3  border border-2 border-secondry shadow-2xl rounded overflow-hidden  hover:rotate-1 transition-all duration-300 dark:border-darkprimary' >
+    <div  className='col-span-12 md:col-span-6 lg:col-span-4 xl:col-span-3  border border-2 border-secondry shadow-2xl rounded overflow-hidden  hover:rotate-1 transition-all duration-300 dark:border-darkprimary dark:shadow-darksecondry' >
         <img src="src/images/freshcart.png" alt=""  className='w-full h-[200px] object-fill'/>
        <div className='p-5 flex flex-col justify-center'>
        <h3>Freshcart</h3>
@@ -25,7 +25,7 @@ export default function Projects() {
        </div>
       </div>
 
-      <div className='col-span-12 md:col-span-6 lg:col-span-4 xl:col-span-3 border border-2 border-secondry shadow-2xl rounded overflow-hidden  hover:rotate-1 transition-all duration-300 dark:border-darkprimary'  >
+      <div className='col-span-12 md:col-span-6 lg:col-span-4 xl:col-span-3 border border-2 border-secondry shadow-2xl rounded overflow-hidden  hover:rotate-1 transition-all duration-300 dark:border-darkprimary dark:shadow-darksecondry'  >
         <img src="src/images/meals.png" alt=""  className='w-full h-[200px] object-fill'/>
        <div className='p-5 flex flex-col justify-center'>
        <h3>Meals</h3>
@@ -33,7 +33,7 @@ export default function Projects() {
        </div>
       </div>
  
-      <div className='col-span-12 md:col-span-6 lg:col-span-4 xl:col-span-3 border border-2 border-secondry shadow-2xl rounded overflow-hidden  hover:rotate-1 transition-all duration-300 dark:border-darkprimary'  >
+      <div className='col-span-12 md:col-span-6 lg:col-span-4 xl:col-span-3 border border-2 border-secondry shadow-2xl rounded overflow-hidden  hover:rotate-1 transition-all duration-300 dark:border-darkprimary dark:shadow-darksecondry'  >
         <img src="src\images\melafy.png" alt=""  className='w-full h-[200px] object-fill '/>
        <div className='p-5 flex flex-col justify-center'>
        <h3>Mealify</h3>
@@ -41,7 +41,7 @@ export default function Projects() {
        </div>
       </div>
 
-      <div className='col-span-12 md:col-span-6 lg:col-span-4 xl:col-span-3 border border-2 border-secondry shadow-2xl rounded overflow-hidden  hover:rotate-1 transition-all duration-300 dark:border-darkprimary'>
+      <div className='col-span-12 md:col-span-6 lg:col-span-4 xl:col-span-3 border border-2 border-secondry shadow-2xl rounded overflow-hidden  hover:rotate-1 transition-all duration-300 dark:border-darkprimary dark:shadow-darksecondry'>
         <img src="src\images\menator.png" alt=""  className='w-full h-[200px] object-fill '/>
        <div className='p-5 flex flex-col justify-center'>
        <h3>Menator</h3>
@@ -50,7 +50,7 @@ export default function Projects() {
       </div>
      
 
-      <div className='col-span-12 md:col-span-6 lg:col-span-4 xl:col-span-3 border border-2 border-secondry shadow-2xl rounded overflow-hidden  hover:rotate-1 transition-all duration-300 dark:border-darkprimary'>
+      <div className='col-span-12 md:col-span-6 lg:col-span-4 xl:col-span-3 border border-2 border-secondry shadow-2xl rounded overflow-hidden  hover:rotate-1 transition-all duration-300 dark:border-darkprimary dark:shadow-darksecondry'>
         <img src="src\images\popit.png" alt=""  className='w-full h-[200px] object-fill'/>
        <div className='p-5 flex flex-col justify-center'>
        <h3>Popuit</h3>
@@ -58,7 +58,7 @@ export default function Projects() {
        </div>
       </div>
 
-      <div className='col-span-12 md:col-span-6 lg:col-span-4 xl:col-span-3 border border-2 border-secondry shadow-2xl rounded overflow-hidden  hover:rotate-1 transition-all duration-300 dark:border-darkprimary'>
+      <div className='col-span-12 md:col-span-6 lg:col-span-4 xl:col-span-3 border border-2 border-secondry shadow-2xl rounded overflow-hidden  hover:rotate-1 transition-all duration-300 dark:border-darkprimary dark:shadow-darksecondry'>
         <img src="src\images\to do list.png" alt=""  className='w-full h-[200px] object-fill'/>
        <div className='p-5 flex flex-col justify-center'>
        <h3>To do list</h3>
@@ -66,7 +66,7 @@ export default function Projects() {
        </div>
       </div>
 
-      <div className='col-span-12 md:col-span-6 lg:col-span-4 xl:col-span-3 border border-2 border-secondry shadow-2xl rounded overflow-hidden  hover:rotate-1 transition-all duration-300 dark:border-darkprimary'>
+      <div className='col-span-12 md:col-span-6 lg:col-span-4 xl:col-span-3 border border-2 border-secondry shadow-2xl rounded overflow-hidden  hover:rotate-1 transition-all duration-300 dark:border-darkprimary dark:shadow-darksecondry'>
         <img src="src\images\weather.png" alt=""  className='w-full h-[200px] object-fill'/>
        <div className='p-5 flex flex-col justify-center'>
        <h3>Weather</h3>
@@ -74,7 +74,7 @@ export default function Projects() {
        </div>
       </div>
 
-      <div className='col-span-12 md:col-span-6 lg:col-span-4 xl:col-span-3 border border-2 border-secondry shadow-2xl rounded overflow-hidden hover:rotate-1 transition-all duration-300 dark:border-darkprimary'>
+      <div className='col-span-12 md:col-span-6 lg:col-span-4 xl:col-span-3 border border-2 border-secondry shadow-2xl rounded overflow-hidden hover:rotate-1 transition-all duration-300 dark:border-darkprimary dark:shadow-darksecondry'>
         <img src="src\images\bookmark.png" alt=""  className='w-full h-[200px] object-fill'/>
        <div className='p-5 flex flex-col justify-center'>
        <h3>Bookmark</h3>
@@ -82,7 +82,7 @@ export default function Projects() {
        </div>
       </div>
 
-      <div className='col-span-12 md:col-span-6 lg:col-span-4 xl:col-span-3 border border-2 border-secondry shadow-2xl rounded overflow-hidden hover:rotate-1 transition-all duration-300 dark:border-darkprimary'>
+      <div className='col-span-12 md:col-span-6 lg:col-span-4 xl:col-span-3 border border-2 border-secondry shadow-2xl rounded overflow-hidden hover:rotate-1 transition-all duration-300 dark:border-darkprimary dark:shadow-darksecondry'>
         <img src="src\images\contact list.png" alt=""  className='w-full h-[200px] object-fill'/>
        <div className='p-5 flex flex-col justify-center'>
        <h3>Contact list</h3>
