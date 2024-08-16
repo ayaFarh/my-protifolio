@@ -30,27 +30,27 @@ Thank you for taking the time to learn a bit about me. I look forward to connect
     <div className='grid grid-cols-12 gap-5 '>
       <div className='col-span-6 md:col-span-3   flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry dark:shadow-darksecondry'>
       <div className='rounded-full overflow-hidden'>
-        <img src='src\images\html.jpg' className='w-20 h-[70px] object-cover' />
+        <img src='\images\html.jpg' className='w-20 h-[70px] object-cover' />
       </div>
        <p className=' mt-5'>HTML & HTML5</p>
       </div>
       <div className='col-span-6 md:col-span-3  flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry dark:shadow-darksecondry'>
       <div className='rounded-full overflow-hidden'>
-        <img src='src\images\css.webp' className='w-20 h-[70px] object-cover' />
+        <img src='\images\css.webp' className='w-20 h-[70px] object-cover' />
       </div>
        <p className=' mt-5'>CSS</p>
       </div>
 
       <div className='col-span-6 md:col-span-3  flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry dark:shadow-darksecondry'>
       <div className='rounded-full overflow-hidden'>
-        <img src='src\images\javaseript.webp' className='w-20 h-[70px] object-cover' />
+        <img src='\images\javaseript.webp' className='w-20 h-[70px] object-cover' />
       </div>
        <p className=' mt-5'>JavaScript</p>
       </div>
 
       <div className='col-span-6 md:col-span-3  flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry dark:shadow-darksecondry'>
       <div className='rounded-full overflow-hidden'>
-        <img src='src\images\bootstrap.webp' className='w-20 h-[70px] object-cover' />
+        <img src='\images\bootstrap.webp' className='w-20 h-[70px] object-cover' />
       </div>
        <p className=' mt-5'>Bootstrap</p>
       </div>
@@ -58,7 +58,7 @@ Thank you for taking the time to learn a bit about me. I look forward to connect
 
       <div className='col-span-6 md:col-span-3  flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry dark:shadow-darksecondry'>
       <div className='rounded-full overflow-hidden'>
-        <img src='src\images\tailwind.webp' className='w-20 h-[70px] object-cover' />
+        <img src='\images\tailwind.webp' className='w-20 h-[70px] object-cover' />
       </div>
        <p className=' mt-5'>Tailwind</p>
       </div>
@@ -66,7 +66,7 @@ Thank you for taking the time to learn a bit about me. I look forward to connect
  
       <div className='col-span-6 md:col-span-3 flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry dark:shadow-darksecondry'>
       <div className='rounded-full overflow-hidden'>
-        <img src='src\images\sass.png' className='w-20 h-[70px] object-cover' />
+        <img src='\images\sass.png' className='w-20 h-[70px] object-cover' />
       </div>
        <p className=' mt-5'>Sass</p>
       </div>
@@ -74,7 +74,7 @@ Thank you for taking the time to learn a bit about me. I look forward to connect
 
       <div className='col-span-6 md:col-span-3  flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry dark:shadow-darksecondry'>
       <div className='rounded-full overflow-hidden'>
-        <img src='src\images\jquary.png' className='w-20 h-[70px] object-cover' />
+        <img src='\images\jquary.png' className='w-20 h-[70px] object-cover' />
       </div>
        <p className=' mt-5'>jquary</p>
       </div>
@@ -82,7 +82,7 @@ Thank you for taking the time to learn a bit about me. I look forward to connect
 
       <div className='col-span-6 md:col-span-3 flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry dark:shadow-darksecondry'>
       <div className='rounded-full overflow-hidden'>
-        <img src='src\images\react js.png' className='w-20 h-[70px] object-cover' />
+        <img src='\images\react js.png' className='w-20 h-[70px] object-cover' />
       </div>
        <p className=' mt-5'>React js</p>
       </div>
@@ -90,7 +90,7 @@ Thank you for taking the time to learn a bit about me. I look forward to connect
 
       <div className='col-span-6 md:col-span-3  flex flex-col justify-center items-center p-4 rounded-xl shadow-2xl border-2 border-primery hover:scale-105 transition-all duration-300 dark:border-darksecondry dark:shadow-darksecondry'>
       <div className='rounded-full overflow-hidden'>
-        <img src='src\images\github.png' className='w-20 h-[70px] object-cover' />
+        <img src='\images\github.png' className='w-20 h-[70px] object-cover' />
       </div>
        <p className=' mt-5'>Githup</p>
       </div>
