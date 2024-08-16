@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 export default function Home() {
   
   return<>
-   <div className=" bg-[url('src/images/7784Ke0EF5.jpeg')] bg-cover bg-center bg-no-repeat bg-fixed h-screen bg-no-repeat relative" >
+   <div className=" bg-[url('assets/images/7784Ke0EF5.jpeg')] bg-cover bg-center bg-no-repeat bg-fixed h-screen bg-no-repeat relative" >
    <div className='opacity-50 absolute top-0 left-0 right-0 bottom-0 bg-black'></div>
    <div className='absolute w-full z-10 h-screen  text-white pt-1/2 flex flex-col justify-center items-center'>
  <h1 className='text-2xl md:text-5xl text-white font-bold mb-5 '>Hello, I'm Aya mohamed</h1>
